@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="wbswjc-greeting",
-    version="0.0.1",
+    version="0.0.4",
     author="wbswjc",
     author_email="me@wujunchao.com",
     description="Just say hi!",
